@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+}
+.header div{
+    margin-left: 2vmax;
+}
+
+.navlinks{
+  
+    margin: 1vmax;
+    text-decoration: none;
+    color: white;
+
+}
+.navlinks:hover{
+    box-shadow: 1vmax 1vmax 5vmax rgb(235, 235, 232);
+}
